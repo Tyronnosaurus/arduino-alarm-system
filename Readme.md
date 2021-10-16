@@ -1,4 +1,4 @@
-#Arduino Alarm System
+# Arduino Alarm System
 
 A security system for home and small businesses.
 
