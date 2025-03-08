@@ -13,4 +13,4 @@ It is made up of many wirelessly interconnected modules, each with a particular 
 
 The whole project is done in C++ for the Arduino bootloader.
 
-This was presented as part of my final univerity project.
+This was presented as part of my final university project.
